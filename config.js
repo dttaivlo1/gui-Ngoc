@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Tớ biết mà 🥰. Love you 3000  😘😘 我会一直陪着你',
     messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'm.me/taid06/' 
+    messLink: 'https://www.messenger.com/t/100026686935754/' 
 }
