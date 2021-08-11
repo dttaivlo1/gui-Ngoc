@@ -1,8 +1,8 @@
 const CONFIG = {
-    introTitle: 'Hee luu Cậu!',
-    introDesc: `Tớ có điều này muốn hỏi cậu, nhớ phải trả lời thật lòng nha`,
+    introTitle: 'Hee luu Ngọc!',
+    introDesc: `Tớ có điều này muốn hỏi Ngọc, nhớ phải trả lời thật lòng nha`,
     btnIntro: 'oke',
-    title: 'Cậu yêu tớ có phải không 😙',
+    title: 'Ngọc làm bạn gái  😙',
     desc: 'Cậu không trả lời hoặc thoát ra, tức là cậu là vợ tớ đó nha :> ',
     btnYes: 'yêu ơi là iuuu <33',
     btnNo: 'cậu mơ à :333',
