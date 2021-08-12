@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Gửi cho tớ <3',
     reply: 'Tại tui nấu ăn ngon há há há ',
     mess: 'Tớ biết mà 🥰. Love you 3000  😘😘 我会一直陪着你',
-    messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.',
+    messDesc: 'cYêu Ngọc.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.messenger.com/t/100026686935754/' 
 }
